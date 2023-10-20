@@ -3,6 +3,3 @@
     <p>Finished testing</p>
 </template>
 
-<style>
-
-</style>
